@@ -2,7 +2,7 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
 [![Linkedin Badge](https://img.shields.io/badge/-Vrushali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vrushali--01629954/)](https://www.linkedin.com/in/vrushali-surwase-4149bb249)
-[![Website Badge](https://https://stackoverflow.com/users/21170610/vrushali-surwase)
+[!Website Badge](https://stackoverflow.com/users/21170610/vrushali-surwase)
 
 I'm
 Full Stack Solution Architect
