@@ -1,8 +1,8 @@
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/vrushali-surwase-4149bb249)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/21170610/vrushali-surwase)
+[![Linkedin Badge](https://img.shields.io/badge/-Vrushali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vrushali--01629954/)](https://www.linkedin.com/in/vrushali-surwase-4149bb249)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Vrushali-yellow)](https://stackoverflow.com/users/21170610/vrushali-surwase)
 
 
 
